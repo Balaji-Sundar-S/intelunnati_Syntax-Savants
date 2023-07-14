@@ -1,1 +1,1 @@
-# Fashion-MNIST-using-CNN---Intel
+# intelunnati_Syntax-Savants
